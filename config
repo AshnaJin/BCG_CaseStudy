@@ -1,0 +1,13 @@
+{
+  "source_file_path" :
+    {
+      "input_path" : "resources",
+      "charges_use" : "Charges_use.csv",
+      "damages_use" : "Damages_use.csv",
+      "endorse_use" : "Endorse_use.csv",
+      "primary_person" : "Primary_Person_use.csv",
+      "restrict_use" : "Restrict_use.csv",
+      "units_use" : "Units_use.csv",
+      "output_file_path" : "resources/outputFile/output.csv"
+    }
+}
